@@ -1,0 +1,1 @@
+dependencies { api project(':mini-agent-core'); api project(':mini-agent-model') }

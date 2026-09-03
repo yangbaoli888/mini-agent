@@ -1,0 +1,6 @@
+dependencies {
+    api project(':mini-agent-core')
+    implementation project(':mini-agent-memory')
+    implementation project(':mini-agent-model')
+    implementation project(':mini-agent-tool')
+}
